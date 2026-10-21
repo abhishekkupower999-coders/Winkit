@@ -7,8 +7,8 @@
     "title": "Update Required v2.0.3 🔥 New",
     "description": "We have released a brand new update for Winkit with exclusive premium features and bug fixes. Please download the latest version to continue using the app.",
     "isForce": True,
-    "isExpired": True,
-    "expiryDate": "2025-10-31",
+    "isExpired": false,
+    "expiryDate": "2030-10-31",
     "closeButtonText": "Cancel",
     "updateButtonText": "Update Now"
   }
