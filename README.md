@@ -9,7 +9,7 @@
     "description": "We have released a brand new update for Winkit with exclusive premium features and bug fixes. Please download the latest version to continue using the app.",
     "isForce": false,
     "isExpired": True,
-    "expiryDate": "2030-12-31",
+    "expiryDate": "2025-10-31",
     "closeButtonText": "Cancel",
     "updateButtonText": "Update Now"
   }
